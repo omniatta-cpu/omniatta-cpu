@@ -1,6 +1,6 @@
 # ⚡ Eduardo Gabriel | Fundador da OMNIATTA
 
-Sou Desenvolvedor Full Stack e Especialista em Automação, focado em transformar processos manuais em sistemas inteligentes. Como fundador da **OMNIATTA**, desenvolvo soluções digitais, produtos SaaS e integro agentes de Inteligência Artificial para otimizar negócios e gerar resultados reais.
+Sou Desenvolvedor Full Stack, com foco em aplicações web, automações e Inteligência Artificial. Como fundador e desenvolvedor da **OMNIATTA**, desenvolvo produtos SaaS e soluções digitais voltadas para problemas reais de negócios, utilizando tecnologias modernas para criar aplicações funcionais e escaláveis.
 
 ### 🛠️ Tecnologias & Ferramentas
 *   **Desenvolvimento:** JavaScript, React, Node.js, HTML5, CSS3
